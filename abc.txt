@@ -1,11 +1,3 @@
 hello
-<<<<<<< HEAD
-<<<<<<< HEAD
 chalo
-
-=======
-chalo
->>>>>>> parent of 181d3d7 (Update abc.txt)
-=======
-chalo
->>>>>>> parent of fbdb40b (A)
+ok
